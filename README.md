@@ -1,1 +1,1 @@
-An introduction to web servers. Java, SQL
+An introduction to web servers with Java.
